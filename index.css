@@ -59,5 +59,13 @@ img {
     background-color: rgb(228, 211, 211);
     aspect-ratio: auto;
     padding: 10px 10px;
+}
 
+footer {
+    font-weight: bolder;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(165, 5, 5);
+    border: 4mm ridge rgb(54, 31, 31);
+    background-color: rgb(185, 163, 130);
 }
